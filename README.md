@@ -71,10 +71,6 @@ O projeto utiliza as seguintes bibliotecas Python:
 - Implementar uma interface web para visualização em tempo real dos preços.
 - Adicionar funcionalidade de alertas para mudanças significativas no preço.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
 ## Contribuições
 
 Contribuições são bem-vindas! Por favor, faça um fork do repositório e envie um pull request para quaisquer mudanças ou melhorias.
